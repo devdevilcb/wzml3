@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7221916419:AAFK-gwySpWzd_4uJQzXPk-SQQKob6nyXdM"
+OWNER_ID = "1947565279"
+TELEGRAM_API = "26750159"
+TELEGRAM_HASH = "fd147a9808d7a294a4864e28a8cea47d"
+DATABASE_URL = "mongodb+srv://shubhamm2233a:password1234@cluster0.0zi6k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -68,7 +68,7 @@ IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
 <a href="{url_cast}">Read More ...</a>"""
 
 # Task Tools
-FORCE_SUB_IDS = ""
+FORCE_SUB_IDS = "-1001720584562"
 MEDIA_STORE = True
 DELETE_LINKS = False
 CLEAN_LOG_MSG = False
@@ -127,8 +127,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/devdevilcb/Wzmlv3"
+UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
 # Leech
@@ -142,7 +142,7 @@ LEECH_PREFIX = ""
 LEECH_SUFFIX = ""
 LEECH_FONT = ""
 LEECH_CAPTION = ""
-LEECH_DUMP_CHAT = ""
+LEECH_DUMP_CHAT = "-1002159220044"
 THUMBNAIL_LAYOUT = ""
 
 # qBittorrent/Aria2c
