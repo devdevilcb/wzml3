@@ -127,7 +127,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/devdevilcb/Wzmlv3"
+UPSTREAM_REPO = "https://github.com/devdevilcb/wzml3"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
